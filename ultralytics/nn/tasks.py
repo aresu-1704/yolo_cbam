@@ -17,7 +17,6 @@ from ultralytics.nn.modules import (
     C2,
     C2PSA,
     C3,
-    CBAM,
     C3TR,
     ELAN1,
     OBB,
